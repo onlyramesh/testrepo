@@ -1,3 +1,17 @@
 This is branchA file.txt
 
 Adding some more data to the branch A file.txt
+<<<<<<< HEAD
+=======
+>>>>>>> adf5442... added more data for branchAi
+
+
+
+
+fksidfidoshfosljprdjig;
+sdf
+dfsdf
+g
+grrg
+g
+>>>>>>> 6716156... added more data for branchb
