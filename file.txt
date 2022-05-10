@@ -4,4 +4,14 @@ this is branchB file.txt
 This is branchA file.txt
 
 Adding some more data to the branch A file.txt
->>>>>>> adf5442... added more data for branchA
+>>>>>>> adf5442... added more data for branchAi
+
+
+
+
+fksidfidoshfosljprdjig;
+sdf
+dfsdf
+g
+grrg
+g
