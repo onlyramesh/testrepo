@@ -1,1 +1,3 @@
 This is branchA file.txt
+
+Adding some more data to the branch A file.txt
